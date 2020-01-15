@@ -1,4 +1,5 @@
-# ThirdPartySteamSites
+# Third Party Steam Sites
+
 List of all the third party Steam sites that I know of
 
 | Site name w/ link | Description |
@@ -14,7 +15,7 @@ List of all the third party Steam sites that I know of
 | [Steam Games Released chart](https://docs.google.com/spreadsheets/d/1apEfzb8dxOoa39qDuA7ZC-LlRQXF3N2tQMR4eyqBqIE/edit#gid=956055254) | Spreadsheet of # of Steam Games released |
 | [SteamHype](https://steamhype.com/calendar) | Tool for filtering and inspecting upcoming games |
 
-Actually is Steam
+# Actually is Steam
 
 | Site name w/link | Description |
 |------------------|-------------|
@@ -22,7 +23,7 @@ Actually is Steam
 | [Steam Labs](https://store.steampowered.com/labs) | Experimental features |
 
 
-Non-Steam
+# Non-Steam
 
 | Site name w/link | Description |
 |------------------|-------------|
