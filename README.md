@@ -28,4 +28,3 @@ List of all the third party Steam sites that I know of
 | Site name w/link | Description |
 |------------------|-------------|
 | [gamstat](http://gamstat.com/games/) | Playstation games stats |
-| 
