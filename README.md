@@ -17,6 +17,7 @@ List of all the third party Steam sites that I know of
 | [SteamCompanion](https://steamcompanion.com/) | Adds some plugin services |
 | [SteamTools](https://steam.madjoki.com/) | Various tools |
 | [SteamBans](https://steambans.com/) | Maybe a log of bans? Broken atm |
+| [ClarkStats](https://clark-stats.appspot.com/) | Presumably some stats for ClarkTank |
 
 # Actually is Steam
 
@@ -31,3 +32,5 @@ List of all the third party Steam sites that I know of
 | Site name w/link | Description |
 |------------------|-------------|
 | [gamstat](http://gamstat.com/games/) | Playstation games stats |
+| [HorseDrawnGames - stores](https://www.horsedrawngames.com/stores/) | Stats for various console stores |
+
