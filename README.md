@@ -17,7 +17,7 @@ List of all the third party Steam sites that I know of
 | [SteamCompanion](https://steamcompanion.com/) | Adds some plugin services |
 | [SteamTools](https://steam.madjoki.com/) | Various tools |
 | [SteamBans](https://steambans.com/) | Maybe a log of bans? Broken atm |
-| [ClarkStats](https://clark-stats.appspot.com/) | Presumably some stats for ClarkTank |
+| [ClarkStats](https://clark-stats.appspot.com/) | Some follower stats for ClarkTank, might be unmaintained |
 
 # Actually is Steam
 
