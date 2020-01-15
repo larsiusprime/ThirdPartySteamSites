@@ -18,6 +18,10 @@ List of all the third party Steam sites that I know of
 | [SteamTools](https://steam.madjoki.com/) | Various tools |
 | [SteamBans](https://steambans.com/) | Maybe a log of bans? Broken atm |
 | [ClarkStats](https://clark-stats.appspot.com/) | Some follower stats for ClarkTank, might be unmaintained |
+| [SteamCardExchange](https://www.steamcardexchange.net/) | Something about exchanging trading cards maybe? |
+| [SteamGridDB](https://www.steamgriddb.com/) | Download & share custom video game assets and personalize your gaming library |
+| [SteamGrid](https://github.com/boppreh/steamgrid) | A standalone fire-and-forget program to enhance Steam's grid videw & Big Picture |
+| [AugmentedSteam](https://es.isthereanydeal.com/) | Browser plugin hooks data from IsThereAnyDeal |
 
 # Actually is Steam
 
