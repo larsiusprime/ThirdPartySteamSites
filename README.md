@@ -22,6 +22,8 @@ List of all the third party Steam sites that I know of
 | [SteamGridDB](https://www.steamgriddb.com/) | Download & share custom video game assets and personalize your gaming library |
 | [SteamGrid](https://github.com/boppreh/steamgrid) | A standalone fire-and-forget program to enhance Steam's grid videw & Big Picture |
 | [AugmentedSteam](https://es.isthereanydeal.com/) | Browser plugin hooks data from IsThereAnyDeal |
+| [ProtonDB](https://www.protondb.com/) | User reports on Valve's Proton (tool for running Windows games on Linux/SteamOS) |
+| [DRM-Free Wiki](https://steam.fandom.com/wiki/List_of_DRM-free_games) | Wiki of DRM free games on Steam |
 
 # Actually is Steam
 
