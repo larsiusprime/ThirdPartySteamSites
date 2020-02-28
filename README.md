@@ -14,6 +14,7 @@ List of all the third party Steam sites that I know of
 | [PlayTracker](https://playtracker.net/insight/) | Stats and graphs for various platforms. Not sure of methodology |
 | [Steam Games Released chart](https://docs.google.com/spreadsheets/d/1apEfzb8dxOoa39qDuA7ZC-LlRQXF3N2tQMR4eyqBqIE/edit#gid=956055254) | Spreadsheet of # of Steam Games released |
 | [SteamHype](https://steamhype.com/calendar) | Tool for filtering and inspecting upcoming games |
+| [Steam Marketing Tool](https://games-stats.com/steam/) | Tool for estimating size of a given kind of game |
 | [SteamCompanion](https://steamcompanion.com/) | Adds some plugin services |
 | [SteamTools](https://steam.madjoki.com/) | Various tools |
 | [SteamBans](https://steambans.com/) | Maybe a log of bans? Broken atm |
