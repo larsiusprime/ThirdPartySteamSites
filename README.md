@@ -12,6 +12,7 @@ List of all the third party Steam sites that I know of
 | [SteamPeek](https://steampeek.hu/) | Similarity algorithm |
 | [SteamScout](http://togeproductions.com/SteamScout/steamAPI.php?appID=464920) | Tracks Steam reviews / locales / etc |
 | [GameDB](https://gamedb.online) | Various Steam stats & metadata |
+| [GameStats](https://games-stats.com/) | Various Stats & metadata |
 | [SteamPrices](https://www.steamprices.com) | Historical Steam prices |
 | [IsThereAnyDeal](https://isthereanydeal.com) | Historical Sale & Price data |
 | [What's on Steam](http://www.whatsonsteam.com/index.htm) | Feed of new releases on Steam |
