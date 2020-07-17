@@ -8,6 +8,7 @@ List of all the third party Steam sites that I know of
 | [SteamCharts](https://steamcharts.com/) | Tracks concurrent player counts |
 | [SteamSpy](https://steamspy.com) | Tracks various stats, but take owners stats with a large does of salt |
 | [SteamReviews.app](https://steamreviews.app/) | Tracks Steam reviews |
+| [SteamReviews.arestless.com](https://steamreviews.arestless.com/) | Tracks Steam reviews by hours played |
 | [SteamPeek](https://steampeek.hu/) | Similarity algorithm |
 | [SteamScout](http://togeproductions.com/SteamScout/steamAPI.php?appID=464920) | Tracks Steam reviews / locales / etc |
 | [GameDB](https://gamedb.online) | Various Steam stats & metadata |
