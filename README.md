@@ -7,6 +7,8 @@ List of all the third party Steam sites that I know of
 | [SteamDB](https://steamdb.info) | Tracking all sorts of nerdy stats |
 | [SteamCharts](https://steamcharts.com/) | Tracks concurrent player counts |
 | [SteamSpy](https://steamspy.com) | Tracks various stats, but take owners stats with a large does of salt |
+| [SteamReviews.app](https://steamreviews.app/) | Tracks Steam reviews |
+| [SteamScout](http://togeproductions.com/SteamScout/steamAPI.php?appID=464920) | Tracks Steam reviews / locales / etc |
 | [What's on Steam](http://www.whatsonsteam.com/index.htm) | Feed of new releases on Steam |
 | [Steam top 50](http://necrommunity.ovh/steamtop50/top.html) | Steam top 50, as seen on [ClarkTank](https://www.twitch.tv/braceyourselfgames) |
 | [Steam 250](https://steam250.com/) | Charts top-rated game using fancier algorithm than Steam, also hidden gems |
