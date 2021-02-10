@@ -6,7 +6,7 @@ List of all the third party Steam sites that I know of
 |-------------------|---------|
 | [SteamDB](https://steamdb.info) | Tracking all sorts of nerdy stats |
 | [SteamCharts](https://steamcharts.com/) | Tracks concurrent player counts |
-| [SteamSpy](https://steamspy.com) | Tracks various stats, but take owners stats with a large does of salt |
+| [SteamSpy](https://steamspy.com) | Tracks various stats, but take owners stats with a large dose of salt |
 | [SteamReviews.app](https://steamreviews.app/) | Tracks Steam reviews |
 | [SteamReviews.arestless.com](https://steamreviews.arestless.com/) | Tracks Steam reviews by hours played |
 | [SteamPeek](https://steampeek.hu/) | Similarity algorithm |
@@ -26,7 +26,7 @@ List of all the third party Steam sites that I know of
 | [SteamCompanion](https://steamcompanion.com/) | Adds some plugin services |
 | [SteamTools](https://steam.madjoki.com/) | Various tools |
 | [SteamBans](https://steambans.com/) | Maybe a log of bans? Broken atm |
-| [ClarkStats](https://clark-stats.appspot.com/) | Some follower stats for ClarkTank, might be unmaintained |
+| [ClarkStats](https://clark-stats.appspot.com/) | Some follower stats for ClarkTank, might be abandoned |
 | [SteamCardExchange](https://www.steamcardexchange.net/) | Something about exchanging trading cards maybe? |
 | [SteamGridDB](https://www.steamgriddb.com/) | Download & share custom video game assets and personalize your gaming library |
 | [SteamGrid](https://github.com/boppreh/steamgrid) | A standalone fire-and-forget program to enhance Steam's grid videw & Big Picture |
