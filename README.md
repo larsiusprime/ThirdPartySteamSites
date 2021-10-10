@@ -34,6 +34,10 @@ List of all the third party Steam sites that I know of
 | [ProtonDB](https://www.protondb.com/) | User reports on Valve's Proton (tool for running Windows games on Linux/SteamOS) |
 | [DRM-Free Wiki](https://steam.fandom.com/wiki/List_of_DRM-free_games) | Wiki of DRM free games on Steam |
 | [ICO Steam Newsletter](https://icopartners.com/steam-newsletter/) | Newsletter & sales chart |
+| [AStats](https://astats.astats.nl/astats/index.php) | Steam Achievement Tacking & Guides |
+| [TrueSteamAchivements](https://truesteamachievements.com/) | Steam Achievement Tacking & Guides |
+| [Exophase](https://www.exophase.com/) | Achievement Tacking for Steam and various other Platforms |
+| [Steam Customizer](https://steamcustomizer.com/) | Create and find Steam Skins |
 
 # Actually is Steam
 
