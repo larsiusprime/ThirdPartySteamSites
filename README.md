@@ -34,6 +34,7 @@ List of all the third party Steam sites that I know of
 | [ProtonDB](https://www.protondb.com/) | User reports on Valve's Proton (tool for running Windows games on Linux/SteamOS) |
 | [DRM-Free Wiki](https://steam.fandom.com/wiki/List_of_DRM-free_games) | Wiki of DRM free games on Steam |
 | [ICO Steam Newsletter](https://icopartners.com/steam-newsletter/) | Newsletter & sales chart |
+| [Steam The Woz](https://steam-the-woz.vercel.app/) | Tool for making Scott The Woz thumbnails from Steam game art |
 
 # Actually is Steam
 
