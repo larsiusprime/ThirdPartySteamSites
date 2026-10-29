@@ -49,4 +49,4 @@ List of all the third party Steam sites that I know of
 |------------------|-------------|
 | [gamstat](http://gamstat.com/games/) | Playstation games stats |
 | [HorseDrawnGames - stores](https://www.horsedrawngames.com/stores/) | Stats for various console stores |
-
+| [NXTO](https://nxto.app) | Backlog tracker and recommender for your Steam library: HowLongToBeat times, similar games |
